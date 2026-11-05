@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:42.336430+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "a23c90ce0e82da33b8bf1d3b419ae919cbf4a3bea8020491cb4ea40e515c3d33",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "b0f3aa49d75924a52312b777fbb5353a43f9a983dcf3d13ccee67623d9f95fa1",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "321d2d755f2ec8928ab924bbfc42e8633e250081e412d420b1d21cb96db5ec8b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/sub_bass.mid",
+      "bytes": 844,
+      "sha256": "38d97138c802dedb0b2658ff26995f570b91ddb6d3880bdada60f95abfb55062",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "7e202070aad2da5a67d77b49c330ee3a222784e95f69a79c96e25ac77c1a1ffe",
+      "errors": []
+    },
+    {
+      "path": "midi/z0201-french-house-chord-stabs-opening/z0201-french-house-chord-stabs-opening-combined.mid",
+      "bytes": 6060,
+      "sha256": "be490758fe5029ebfb2818833dda26e316a39b1bd6fd9fad32b4ca9f2f82a49b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "d809f0f86cff09eb2e592c306c888dcec0696d44ebac4422f88535d378cc60e1",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "15cb976950d7bd74f0d5553eb1ad67585e267e388b736f24870faef1fa78d6d2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/principal_motif.mid",
+      "bytes": 815,
+      "sha256": "960171a00be0e942076cf2bdb031e2e29f30c7c2a15beff0c7130fe387219593",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/sub_bass.mid",
+      "bytes": 844,
+      "sha256": "f11d996aeab63b06cc12a9c9327b3eb08e68ebef2948d495ccb5d85c554980c9",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "04bebded39377cac856c0213ff54f13ef014a73316b42fa60f84b9f892888582",
+      "errors": []
+    },
+    {
+      "path": "midi/z0202-french-house-chord-stabs-variation/z0202-french-house-chord-stabs-variation-combined.mid",
+      "bytes": 6059,
+      "sha256": "69105ec8374db9ef23a08c8567ecad773615fd75062f0d90a595ea31f2f2f7ec",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "79dfd816bae84e61ff4d32073cc7bc43288b5b9d71fa77e19708176db51ff427",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e5172d1f6566bf5746b743447031c0a89b3a2a67062ba1933032b8768ecc4128",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "48fad726a1578073a3882915a710b450bbd271b300dd746ab5c715eddc417e0b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/sub_bass.mid",
+      "bytes": 844,
+      "sha256": "806f887875c48c298e4d4f3a225b9de4e6ed973fac8b4bd87504a8186aa7c53d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "30990716f54e24d430cebbd534e8132036ee61c8a385d8353fe79d7fb0083faf",
+      "errors": []
+    },
+    {
+      "path": "midi/z0203-french-house-chord-stabs-contrast/z0203-french-house-chord-stabs-contrast-combined.mid",
+      "bytes": 6025,
+      "sha256": "b45e785d402e741678c64655dc4b8a6266a375f391759b9d37f626160152dc02",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c9a781faa877ab22718d200a88ca98d6f0649c07e29aa175e16eed1ba39e7b36",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "395bfd316036713444e7a40283292540ca9ac1906cc7bb8d9cc9145d20bd629c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/principal_motif.mid",
+      "bytes": 781,
+      "sha256": "bc9ad93e97194ac1114e65f938a0c16d8f724bb1d1ace112e2afcd2878f03b6f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/sub_bass.mid",
+      "bytes": 844,
+      "sha256": "89e74a9e61eb752ff585f2f236dcb3613789f0f57ddf846a850ccd8eaf349f0d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da",
+      "errors": []
+    },
+    {
+      "path": "midi/z0204-french-house-chord-stabs-return/z0204-french-house-chord-stabs-return-combined.mid",
+      "bytes": 6025,
+      "sha256": "ab261db8e3fc77b5a49016e1817ef81b5374f7cc3bd2493edbfa137c36581a0f",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

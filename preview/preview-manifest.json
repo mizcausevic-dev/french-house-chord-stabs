@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/french-house-chord-stabs-simple-synth-preview.mp3",
+  "preview_sha256": "6afdfc6e18613e8b3206b968a504a78c432dc49f5a0796c67ca73fd3535e9a1b",
+  "source_midi_path": "midi/z0201-french-house-chord-stabs-opening/z0201-french-house-chord-stabs-opening-combined.mid",
+  "source_midi_sha256": "be490758fe5029ebfb2818833dda26e316a39b1bd6fd9fad32b4ca9f2f82a49b",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0201",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.145935,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

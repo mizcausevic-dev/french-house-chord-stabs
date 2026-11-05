@@ -1,0 +1,26 @@
+{
+  "title": "French House Chord Stabs",
+  "study": "z0201",
+  "bpm": 122,
+  "source_audio": "preview/french-house-chord-stabs-simple-synth-preview.mp3",
+  "source_audio_sha256": "6afdfc6e18613e8b3206b968a504a78c432dc49f5a0796c67ca73fd3535e9a1b",
+  "source_midi": "midi/z0201-french-house-chord-stabs-opening/z0201-french-house-chord-stabs-opening-combined.mid",
+  "source_midi_sha256": "be490758fe5029ebfb2818833dda26e316a39b1bd6fd9fad32b4ca9f2f82a49b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "e234b08e4384d8daea405a615bf992ffe99a6ae2c4091ac1f676869075e6b37e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "9f36798fd6b2d4c6b869ca50d84ae19214eaade8245b7ff090219e898ce9c6ed",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "0a74cbda945599ce6c4e183d297acd0af6253d423975dd2aeef84f37791881b3",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
