@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/french-house-chord-stabs-midi.zip",
-      "bytes": 32818,
-      "sha256": "119675a21b460a054f165560181d39e18fc79a703b6c4113e1c7c9b29b9a5054"
+      "bytes": 33805,
+      "sha256": "fd8810a364b91b9b99b6cbb4f34b6ffed2b3ce0c5aab9a013ce51a00725ec1fb"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "25fc398296d23f77f6f89c03cbb2d90898e189658d824b7e91be93b957b302e5"
+      "bytes": 10210,
+      "sha256": "1f6e6385b0a4dbd17b6150e4b287f115261c0981528f3d82c97acdce49226de0"
     },
     {
       "path": "midi/z0201-french-house-chord-stabs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "ab261db8e3fc77b5a49016e1817ef81b5374f7cc3bd2493edbfa137c36581a0f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/french-house-chord-stabs-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "6afdfc6e18613e8b3206b968a504a78c432dc49f5a0796c67ca73fd3535e9a1b"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3994,
-      "sha256": "db21a0d3245ca599f6f526319b3bb5eddea4b285de3ecbbf7380c2185a904113"
+      "bytes": 4109,
+      "sha256": "0859c4b49982d1def152125c91b782c848c66385acd497b3d79acc80e3fb9699"
     },
     {
       "path": "social/instagram/caption.txt",
